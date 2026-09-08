@@ -1,16 +1,20 @@
-## Hi there 👋
+# Thang Zhang Xing
 
-<!--
-**zhangxingthang/zhangxingthang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Former Derivatives Trading Executive | Quantitative Trading Research**
 
-Here are some ideas to get you started:
+I use Python to research systematic trading ideas, test risk assumptions and analyse financial-market data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Quantitative trading research
+- Python backtesting
+- Financial time-series analysis
+- Strategy risk and performance evaluation
+
+## Tools
+
+Python · pandas · NumPy · Jupyter Notebook · Git · GitHub
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/zhang-xing-thang/) · [Email](mailto:zhangxingthang97@gmail.com) · [Telegram](https://t.me/thangzhangxing)
